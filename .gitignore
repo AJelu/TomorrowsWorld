@@ -74,5 +74,11 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 Content/UnrealBaseContent/*
-Content/Animation/*
+Content/Animation/
 !Content/Animation/.none
+Content/Sound/
+!Content/Sound/.none
+Content/Materials/
+!Content/Materials/Textures/.none
+Content/FX/
+!Content/FX/.none
