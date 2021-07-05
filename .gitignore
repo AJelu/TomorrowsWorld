@@ -79,7 +79,11 @@ Content/Animation/*
 Content/Sound/*
 !Content/Sound/.none
 Content/Materials/*
+!Content/Materials/Textures
+Content/Materials/Textures/*
 !Content/Materials/Textures/.none
+!Content/Materials/Images
+Content/Materials/Images/*
+!Content/Materials/Images/.none
 Content/FX/*
 !Content/FX/.none
-Content/UnrealBaseContent*
