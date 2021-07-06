@@ -72,26 +72,23 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Content/Animation/*
-!Content/Animation/.none
-Content/FX/*
-!Content/FX/.none
-Content/Globals/*
-!Content/Globals/.none
-Content/Materials/*
-!Content/Materials/Textures
-Content/Materials/Textures/*
-!Content/Materials/Textures/.none
-!Content/Materials/Images
-Content/Materials/Images/*
-!Content/Materials/Images/.none
-Content/Meshes/*
-!Content/Meshes/.none
-Content/Skins/*
-!Content/Skins/.none
-Content/Sound/*
-!Content/Sound/.none
-Content/UnrealBaseContent/*
+Content/Assets/*
+!Content/Assets/.none
+Content/Assets/FX
+!Content/Assets/FX/.none
+Content/Assets/Globals
+!Content/Assets/Globals/.none
+Content/Assets/Levels
+!Content/Assets/Levels/.none
+Content/Assets/Units
+!Content/Assets/Units/.none
+
+Content/Media/*
+!Content/Media/.none
+Content/Media/Sound
+!Content/Media/Sound/.none
+Content/Media/Music
+!Content/Media/Music/.none
 
 
 
