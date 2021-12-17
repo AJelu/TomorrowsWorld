@@ -13,3 +13,20 @@ There is an arena in the world for a joint fun game;
 All controls are listed in the game settings menu;
 
 Demonstration of the game:
+![alt text](Image_game/1.png "Menu")
+
+![alt text](Image_game/2.png "Menu")
+
+![alt text](Image_game/3.png)
+
+![alt text](Image_game/4.png)
+
+![alt text](Image_game/5.png)
+
+![alt text](Image_game/6.png)
+
+![alt text](Image_game/7.png)
+
+![alt text](Image_game/8.png)
+
+![alt text](Image_game/9.png)
